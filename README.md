@@ -1,3 +1,3 @@
-# My Awesome Book
+# 说明
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本笔记的主要内容是记录JavaSE部分的知识点详细梳理和总结
